@@ -35,10 +35,11 @@ backdrop-filter: blur(0.2px);
 -webkit-backdrop-filter: blur(1.5px);
 font-family: 'IBM Plex Mono', monospace;
 font-size: 60px;
+    
 
 
 padding-left: 35px;
-padding-right: 35px;
+padding-right: 3005px;
 }
 
 h2{
