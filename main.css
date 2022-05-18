@@ -36,7 +36,7 @@ backdrop-filter: blur(0.2px);
 font-family: 'IBM Plex Mono', monospace;
 font-size: 60px;
 
-margin: auto;
+
 padding-left: 35px;
 padding-right: 35px;
 }
@@ -53,9 +53,6 @@ h2{
 
 }
 
-.parent{
-
-}
 
 .sqrimg{
     width: 200px;
