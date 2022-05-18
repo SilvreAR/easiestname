@@ -1,0 +1,67 @@
+body {
+    background-image: url(https://bestof.nyc3.digitaloceanspaces.com/devsnap.me/sam/css-background-animation.gif);
+    background-size: cover;
+    
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 70px;
+}
+div{
+
+}
+
+#intro{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 30px;
+}
+img{
+    width: 200px;
+    
+
+
+}
+.card{
+    font-size: 30px;
+    padding: 2px 16px;
+    width: 15%;
+    background: rgba(255, 255, 255, 0.22);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(0.2px);
+-webkit-backdrop-filter: blur(1.5px);
+font-family: 'IBM Plex Mono', monospace;
+font-size: 60px;
+display:inline-block;
+margin: auto;
+padding-left: 35px;
+padding-right: 35px;
+}
+
+h2{
+    padding-left: 25px;
+    padding-bottom: 15px;
+    font-size: 30px;
+    transition: 1s;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,4);
+
+}
+
+.parent{
+
+    text-align:center
+}
+
+.sqrimg{
+    width: 200px;
+    height:200px;
+    object-fit:cover;
+    border-radius: 20%;
+    padding-top: 40%;
+}
